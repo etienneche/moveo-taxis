@@ -1,0 +1,150 @@
+[29-Dec-2021 21:57:43 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.5. in /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php on line 24
+[29-Dec-2021 21:57:43 UTC] PHP Stack trace:
+[29-Dec-2021 21:57:43 UTC] PHP   1. {main}() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:0
+[29-Dec-2021 21:57:43 UTC] PHP   2. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:6
+[29-Dec-2021 21:57:43 UTC] PHP   3. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-blog-header.php:13
+[29-Dec-2021 21:57:43 UTC] PHP   4. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-load.php:55
+[29-Dec-2021 21:57:43 UTC] PHP   5. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp-config.php:7
+[29-Dec-2021 21:57:43 UTC] PHP   6. ComposerAutoloaderInitd80175db0f79c4a5c89916b81941549a::getLoader() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/autoload.php:7
+[29-Dec-2021 21:57:43 UTC] PHP   7. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/autoload_real.php:25
+[29-Dec-2021 21:57:43 UTC] PHP   8. trigger_error() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php:24
+[29-Dec-2021 21:57:48 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.5. in /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php on line 24
+[29-Dec-2021 21:57:48 UTC] PHP Stack trace:
+[29-Dec-2021 21:57:48 UTC] PHP   1. {main}() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:0
+[29-Dec-2021 21:57:48 UTC] PHP   2. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:6
+[29-Dec-2021 21:57:48 UTC] PHP   3. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-blog-header.php:13
+[29-Dec-2021 21:57:48 UTC] PHP   4. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-load.php:55
+[29-Dec-2021 21:57:48 UTC] PHP   5. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp-config.php:7
+[29-Dec-2021 21:57:48 UTC] PHP   6. ComposerAutoloaderInitd80175db0f79c4a5c89916b81941549a::getLoader() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/autoload.php:7
+[29-Dec-2021 21:57:48 UTC] PHP   7. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/autoload_real.php:25
+[29-Dec-2021 21:57:48 UTC] PHP   8. trigger_error() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php:24
+[29-Dec-2021 22:06:39 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.5. in /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php on line 24
+[29-Dec-2021 22:06:39 UTC] PHP Stack trace:
+[29-Dec-2021 22:06:39 UTC] PHP   1. {main}() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:0
+[29-Dec-2021 22:06:39 UTC] PHP   2. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:6
+[29-Dec-2021 22:06:39 UTC] PHP   3. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-blog-header.php:13
+[29-Dec-2021 22:06:39 UTC] PHP   4. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-load.php:55
+[29-Dec-2021 22:06:39 UTC] PHP   5. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp-config.php:7
+[29-Dec-2021 22:06:39 UTC] PHP   6. ComposerAutoloaderInitd80175db0f79c4a5c89916b81941549a::getLoader() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/autoload.php:7
+[29-Dec-2021 22:06:39 UTC] PHP   7. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/autoload_real.php:25
+[29-Dec-2021 22:06:39 UTC] PHP   8. trigger_error() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php:24
+[29-Dec-2021 22:06:47 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.5. in /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php on line 24
+[29-Dec-2021 22:06:47 UTC] PHP Stack trace:
+[29-Dec-2021 22:06:47 UTC] PHP   1. {main}() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:0
+[29-Dec-2021 22:06:47 UTC] PHP   2. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:6
+[29-Dec-2021 22:06:47 UTC] PHP   3. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-blog-header.php:13
+[29-Dec-2021 22:06:47 UTC] PHP   4. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-load.php:55
+[29-Dec-2021 22:06:47 UTC] PHP   5. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp-config.php:7
+[29-Dec-2021 22:06:47 UTC] PHP   6. ComposerAutoloaderInitd80175db0f79c4a5c89916b81941549a::getLoader() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/autoload.php:7
+[29-Dec-2021 22:06:47 UTC] PHP   7. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/autoload_real.php:25
+[29-Dec-2021 22:06:47 UTC] PHP   8. trigger_error() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php:24
+[29-Dec-2021 22:06:47 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.5. in /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php on line 24
+[29-Dec-2021 22:06:47 UTC] PHP Stack trace:
+[29-Dec-2021 22:06:47 UTC] PHP   1. {main}() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:0
+[29-Dec-2021 22:06:47 UTC] PHP   2. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:6
+[29-Dec-2021 22:06:47 UTC] PHP   3. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-blog-header.php:13
+[29-Dec-2021 22:06:47 UTC] PHP   4. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-load.php:55
+[29-Dec-2021 22:06:47 UTC] PHP   5. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp-config.php:7
+[29-Dec-2021 22:06:47 UTC] PHP   6. ComposerAutoloaderInitd80175db0f79c4a5c89916b81941549a::getLoader() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/autoload.php:7
+[29-Dec-2021 22:06:47 UTC] PHP   7. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/autoload_real.php:25
+[29-Dec-2021 22:06:47 UTC] PHP   8. trigger_error() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php:24
+[29-Dec-2021 22:07:19 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.5. in /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php on line 24
+[29-Dec-2021 22:07:19 UTC] PHP Stack trace:
+[29-Dec-2021 22:07:19 UTC] PHP   1. {main}() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:0
+[29-Dec-2021 22:07:19 UTC] PHP   2. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:6
+[29-Dec-2021 22:07:19 UTC] PHP   3. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-blog-header.php:13
+[29-Dec-2021 22:07:19 UTC] PHP   4. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-load.php:55
+[29-Dec-2021 22:07:19 UTC] PHP   5. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp-config.php:7
+[29-Dec-2021 22:07:19 UTC] PHP   6. ComposerAutoloaderInitd80175db0f79c4a5c89916b81941549a::getLoader() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/autoload.php:7
+[29-Dec-2021 22:07:19 UTC] PHP   7. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/autoload_real.php:25
+[29-Dec-2021 22:07:19 UTC] PHP   8. trigger_error() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php:24
+[29-Dec-2021 22:07:19 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.5. in /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php on line 24
+[29-Dec-2021 22:07:19 UTC] PHP Stack trace:
+[29-Dec-2021 22:07:19 UTC] PHP   1. {main}() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:0
+[29-Dec-2021 22:07:19 UTC] PHP   2. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:6
+[29-Dec-2021 22:07:19 UTC] PHP   3. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-blog-header.php:13
+[29-Dec-2021 22:07:19 UTC] PHP   4. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-load.php:55
+[29-Dec-2021 22:07:19 UTC] PHP   5. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp-config.php:7
+[29-Dec-2021 22:07:19 UTC] PHP   6. ComposerAutoloaderInitd80175db0f79c4a5c89916b81941549a::getLoader() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/autoload.php:7
+[29-Dec-2021 22:07:19 UTC] PHP   7. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/autoload_real.php:25
+[29-Dec-2021 22:07:19 UTC] PHP   8. trigger_error() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php:24
+[29-Dec-2021 22:09:28 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.5. in /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php on line 24
+[29-Dec-2021 22:09:28 UTC] PHP Stack trace:
+[29-Dec-2021 22:09:28 UTC] PHP   1. {main}() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:0
+[29-Dec-2021 22:09:28 UTC] PHP   2. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:6
+[29-Dec-2021 22:09:28 UTC] PHP   3. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-blog-header.php:13
+[29-Dec-2021 22:09:28 UTC] PHP   4. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-load.php:55
+[29-Dec-2021 22:09:28 UTC] PHP   5. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp-config.php:7
+[29-Dec-2021 22:09:28 UTC] PHP   6. ComposerAutoloaderInitd80175db0f79c4a5c89916b81941549a::getLoader() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/autoload.php:7
+[29-Dec-2021 22:09:28 UTC] PHP   7. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/autoload_real.php:25
+[29-Dec-2021 22:09:28 UTC] PHP   8. trigger_error() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php:24
+[29-Dec-2021 22:09:29 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.5. in /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php on line 24
+[29-Dec-2021 22:09:29 UTC] PHP Stack trace:
+[29-Dec-2021 22:09:29 UTC] PHP   1. {main}() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:0
+[29-Dec-2021 22:09:29 UTC] PHP   2. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:6
+[29-Dec-2021 22:09:29 UTC] PHP   3. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-blog-header.php:13
+[29-Dec-2021 22:09:29 UTC] PHP   4. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-load.php:55
+[29-Dec-2021 22:09:29 UTC] PHP   5. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp-config.php:7
+[29-Dec-2021 22:09:29 UTC] PHP   6. ComposerAutoloaderInitd80175db0f79c4a5c89916b81941549a::getLoader() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/autoload.php:7
+[29-Dec-2021 22:09:29 UTC] PHP   7. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/autoload_real.php:25
+[29-Dec-2021 22:09:29 UTC] PHP   8. trigger_error() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php:24
+[29-Dec-2021 22:13:52 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.5. in /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php on line 24
+[29-Dec-2021 22:13:52 UTC] PHP Stack trace:
+[29-Dec-2021 22:13:52 UTC] PHP   1. {main}() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:0
+[29-Dec-2021 22:13:52 UTC] PHP   2. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:6
+[29-Dec-2021 22:13:52 UTC] PHP   3. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-blog-header.php:13
+[29-Dec-2021 22:13:52 UTC] PHP   4. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-load.php:55
+[29-Dec-2021 22:13:52 UTC] PHP   5. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp-config.php:7
+[29-Dec-2021 22:13:52 UTC] PHP   6. ComposerAutoloaderInitd80175db0f79c4a5c89916b81941549a::getLoader() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/autoload.php:7
+[29-Dec-2021 22:13:52 UTC] PHP   7. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/autoload_real.php:25
+[29-Dec-2021 22:13:52 UTC] PHP   8. trigger_error() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php:24
+[29-Dec-2021 22:13:52 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.5. in /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php on line 24
+[29-Dec-2021 22:13:52 UTC] PHP Stack trace:
+[29-Dec-2021 22:13:52 UTC] PHP   1. {main}() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:0
+[29-Dec-2021 22:13:52 UTC] PHP   2. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:6
+[29-Dec-2021 22:13:52 UTC] PHP   3. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-blog-header.php:13
+[29-Dec-2021 22:13:52 UTC] PHP   4. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-load.php:55
+[29-Dec-2021 22:13:52 UTC] PHP   5. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp-config.php:7
+[29-Dec-2021 22:13:52 UTC] PHP   6. ComposerAutoloaderInitd80175db0f79c4a5c89916b81941549a::getLoader() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/autoload.php:7
+[29-Dec-2021 22:13:52 UTC] PHP   7. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/autoload_real.php:25
+[29-Dec-2021 22:13:52 UTC] PHP   8. trigger_error() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php:24
+[29-Dec-2021 22:17:01 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.5. in /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php on line 24
+[29-Dec-2021 22:17:01 UTC] PHP Stack trace:
+[29-Dec-2021 22:17:01 UTC] PHP   1. {main}() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:0
+[29-Dec-2021 22:17:01 UTC] PHP   2. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:6
+[29-Dec-2021 22:17:01 UTC] PHP   3. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-blog-header.php:13
+[29-Dec-2021 22:17:01 UTC] PHP   4. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-load.php:55
+[29-Dec-2021 22:17:01 UTC] PHP   5. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp-config.php:7
+[29-Dec-2021 22:17:01 UTC] PHP   6. ComposerAutoloaderInitd80175db0f79c4a5c89916b81941549a::getLoader() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/autoload.php:7
+[29-Dec-2021 22:17:01 UTC] PHP   7. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/autoload_real.php:25
+[29-Dec-2021 22:17:01 UTC] PHP   8. trigger_error() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php:24
+[29-Dec-2021 22:17:01 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.5. in /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php on line 24
+[29-Dec-2021 22:17:01 UTC] PHP Stack trace:
+[29-Dec-2021 22:17:01 UTC] PHP   1. {main}() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:0
+[29-Dec-2021 22:17:01 UTC] PHP   2. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:6
+[29-Dec-2021 22:17:01 UTC] PHP   3. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-blog-header.php:13
+[29-Dec-2021 22:17:01 UTC] PHP   4. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-load.php:55
+[29-Dec-2021 22:17:01 UTC] PHP   5. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp-config.php:7
+[29-Dec-2021 22:17:01 UTC] PHP   6. ComposerAutoloaderInitd80175db0f79c4a5c89916b81941549a::getLoader() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/autoload.php:7
+[29-Dec-2021 22:17:01 UTC] PHP   7. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/autoload_real.php:25
+[29-Dec-2021 22:17:01 UTC] PHP   8. trigger_error() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php:24
+[30-Dec-2021 15:07:36 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.5. in /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php on line 24
+[30-Dec-2021 15:07:36 UTC] PHP Stack trace:
+[30-Dec-2021 15:07:36 UTC] PHP   1. {main}() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:0
+[30-Dec-2021 15:07:36 UTC] PHP   2. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:6
+[30-Dec-2021 15:07:36 UTC] PHP   3. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-blog-header.php:13
+[30-Dec-2021 15:07:36 UTC] PHP   4. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-load.php:55
+[30-Dec-2021 15:07:36 UTC] PHP   5. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp-config.php:7
+[30-Dec-2021 15:07:36 UTC] PHP   6. ComposerAutoloaderInitd80175db0f79c4a5c89916b81941549a::getLoader() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/autoload.php:7
+[30-Dec-2021 15:07:36 UTC] PHP   7. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/autoload_real.php:25
+[30-Dec-2021 15:07:36 UTC] PHP   8. trigger_error() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php:24
+[30-Dec-2021 15:07:36 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.5. in /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php on line 24
+[30-Dec-2021 15:07:36 UTC] PHP Stack trace:
+[30-Dec-2021 15:07:36 UTC] PHP   1. {main}() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:0
+[30-Dec-2021 15:07:36 UTC] PHP   2. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/index.php:6
+[30-Dec-2021 15:07:36 UTC] PHP   3. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-blog-header.php:13
+[30-Dec-2021 15:07:36 UTC] PHP   4. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp/wp-load.php:55
+[30-Dec-2021 15:07:36 UTC] PHP   5. require_once() /home/etienne/Local Sites/bedrockshay/app/bedrock/web/wp-config.php:7
+[30-Dec-2021 15:07:36 UTC] PHP   6. ComposerAutoloaderInitd80175db0f79c4a5c89916b81941549a::getLoader() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/autoload.php:7
+[30-Dec-2021 15:07:36 UTC] PHP   7. require() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/autoload_real.php:25
+[30-Dec-2021 15:07:36 UTC] PHP   8. trigger_error() /home/etienne/Local Sites/bedrockshay/app/bedrock/vendor/composer/platform_check.php:24

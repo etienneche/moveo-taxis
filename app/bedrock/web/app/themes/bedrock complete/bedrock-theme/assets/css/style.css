@@ -1,0 +1,138 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+body #page {
+  height: 100vh;
+}
+
+body h1 {
+  text-shadow: 2px 2px #9fa4c494;
+  font-size: 48px;
+  font-weight: bold;
+  color: #0f1c64;
+  padding-bottom: 36px;
+  padding-top: 36px;
+}
+
+body .btn-primary {
+  background-color: #0f1c64;
+  font-weight: 600;
+}
+
+.grid-header #middle-col {
+  margin-top: 20px;
+}
+
+.grid-header #middle-col .form-check-input {
+  margin-right: 20px;
+}
+
+.grid-header #middle-col .form-check-label {
+  color: #9fa4c4;
+  text-shadow: 1px 1px #0f1c6481;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.grid-header #middle-col :hover {
+  color: #0f1c64;
+}
+
+.map-section .leaflet-popup-content {
+  font-size: 18px;
+  color: #0f1c64;
+}
+
+.map-section :hover {
+  color: #0f1c64;
+}
+
+.map-section #col-map {
+  margin: 0 auto;
+}
+
+.map-section #map {
+  height: 500px;
+  width: 100%;
+  border: 2px solid #f2f3fc;
+}
+
+.form-section .form-control {
+  border: 0px solid #fff;
+}
+
+.form-section .accordion-button {
+  font-size: 28px;
+  font-weight: bold;
+  color: #0f1c64;
+  padding-bottom: 36px;
+  padding-top: 36px;
+  padding-left: 44px;
+}
+
+.form-section .accordion-button:not(.collapsed) {
+  color: #0f1c64;
+  background-color: #f2f3fc57;
+}
+
+.form-section .accordion-button:focus {
+  color: #0f1c64;
+  border-color: #d5d5d5 !important;
+}
+
+.form-section .form-check-label {
+  font-size: 18px;
+  margin-bottom: 16px;
+}
+
+.form-section .taxi-select {
+  border: 0px solid #fff;
+  padding-left: 50px;
+  color: #9fa4c4;
+  font-size: 22px;
+}
+
+.toast {
+  position: fixed;
+  right: 15px;
+  top: 40px;
+}
+
+section {
+  position: relative;
+}
+
+.form-switch {
+  margin: 40px 0 20px;
+}
+
+.leaflet-marker-icon.color {
+  background-color: #000;
+  padding: 0;
+  height: 40px !important;
+  width: 40px !important;
+  padding: 5PX;
+  object-fit: contain;
+  border-radius: 50%;
+}
+
+.leaflet-marker-icon.color.White {
+  background-color: #fff;
+}
+
+.leaflet-marker-icon.color.Yellow {
+  background-color: yellow;
+}
+
+.leaflet-marker-icon.color.Blue {
+  background-color: blue;
+}
+
+.leaflet-marker-icon.color.Green {
+  background-color: green;
+}
+
+.leaflet-marker-icon.color.Red {
+  background-color: red;
+}

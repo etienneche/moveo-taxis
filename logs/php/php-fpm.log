@@ -1,0 +1,177 @@
+[29-Dec-2021 22:04:04] NOTICE: fpm is running, pid 15356
+[29-Dec-2021 22:04:04] NOTICE: ready to handle connections
+[29-Dec-2021 22:16:09] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 22:16:09] ERROR: FPM initialization failed
+[29-Dec-2021 22:16:09] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 22:16:09] ERROR: FPM initialization failed
+[29-Dec-2021 22:16:10] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 22:16:10] ERROR: FPM initialization failed
+[29-Dec-2021 22:16:10] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 22:16:10] ERROR: FPM initialization failed
+[29-Dec-2021 23:18:41] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:18:41] ERROR: FPM initialization failed
+[29-Dec-2021 23:18:41] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:18:41] ERROR: FPM initialization failed
+[29-Dec-2021 23:18:42] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:18:42] ERROR: FPM initialization failed
+[29-Dec-2021 23:18:43] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:18:43] ERROR: FPM initialization failed
+[29-Dec-2021 23:20:56] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:20:56] ERROR: FPM initialization failed
+[29-Dec-2021 23:20:56] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:20:56] ERROR: FPM initialization failed
+[29-Dec-2021 23:20:57] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:20:57] ERROR: FPM initialization failed
+[29-Dec-2021 23:20:58] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:20:58] ERROR: FPM initialization failed
+[29-Dec-2021 23:22:18] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:22:18] ERROR: FPM initialization failed
+[29-Dec-2021 23:22:19] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:22:19] ERROR: FPM initialization failed
+[29-Dec-2021 23:22:20] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:22:20] ERROR: FPM initialization failed
+[29-Dec-2021 23:22:20] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:22:20] ERROR: FPM initialization failed
+[29-Dec-2021 23:26:15] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:26:15] ERROR: FPM initialization failed
+[29-Dec-2021 23:26:16] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:26:16] ERROR: FPM initialization failed
+[29-Dec-2021 23:26:16] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:26:16] ERROR: FPM initialization failed
+[29-Dec-2021 23:26:17] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:26:17] ERROR: FPM initialization failed
+[29-Dec-2021 23:28:49] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:28:49] ERROR: FPM initialization failed
+[29-Dec-2021 23:28:49] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:28:49] ERROR: FPM initialization failed
+[29-Dec-2021 23:28:50] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:28:50] ERROR: FPM initialization failed
+[29-Dec-2021 23:28:51] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:28:51] ERROR: FPM initialization failed
+[29-Dec-2021 23:34:29] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:34:29] ERROR: FPM initialization failed
+[29-Dec-2021 23:34:29] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:34:29] ERROR: FPM initialization failed
+[29-Dec-2021 23:34:30] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:34:30] ERROR: FPM initialization failed
+[29-Dec-2021 23:34:31] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:34:31] ERROR: FPM initialization failed
+[29-Dec-2021 23:35:05] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:35:05] ERROR: FPM initialization failed
+[29-Dec-2021 23:35:06] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:35:06] ERROR: FPM initialization failed
+[29-Dec-2021 23:35:06] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:35:06] ERROR: FPM initialization failed
+[29-Dec-2021 23:35:07] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:35:07] ERROR: FPM initialization failed
+[29-Dec-2021 23:57:42] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:57:42] ERROR: FPM initialization failed
+[29-Dec-2021 23:57:42] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:57:42] ERROR: FPM initialization failed
+[29-Dec-2021 23:57:43] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:57:43] ERROR: FPM initialization failed
+[29-Dec-2021 23:57:44] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[29-Dec-2021 23:57:44] ERROR: FPM initialization failed
+[30-Dec-2021 00:06:37] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:06:37] ERROR: FPM initialization failed
+[30-Dec-2021 00:06:37] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:06:37] ERROR: FPM initialization failed
+[30-Dec-2021 00:06:38] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:06:38] ERROR: FPM initialization failed
+[30-Dec-2021 00:06:38] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:06:38] ERROR: FPM initialization failed
+[30-Dec-2021 00:09:25] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:09:25] ERROR: FPM initialization failed
+[30-Dec-2021 00:09:26] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:09:26] ERROR: FPM initialization failed
+[30-Dec-2021 00:09:27] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:09:27] ERROR: FPM initialization failed
+[30-Dec-2021 00:09:27] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:09:27] ERROR: FPM initialization failed
+[30-Dec-2021 00:11:18] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:11:18] ERROR: FPM initialization failed
+[30-Dec-2021 00:11:19] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:11:19] ERROR: FPM initialization failed
+[30-Dec-2021 00:11:19] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:11:19] ERROR: FPM initialization failed
+[30-Dec-2021 00:11:20] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:11:20] ERROR: FPM initialization failed
+[30-Dec-2021 00:13:21] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:13:21] ERROR: FPM initialization failed
+[30-Dec-2021 00:13:21] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:13:21] ERROR: FPM initialization failed
+[30-Dec-2021 00:13:22] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:13:22] ERROR: FPM initialization failed
+[30-Dec-2021 00:13:23] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:13:23] ERROR: FPM initialization failed
+[30-Dec-2021 00:13:49] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:13:49] ERROR: FPM initialization failed
+[30-Dec-2021 00:13:49] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:13:49] ERROR: FPM initialization failed
+[30-Dec-2021 00:13:50] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:13:50] ERROR: FPM initialization failed
+[30-Dec-2021 00:13:51] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:13:51] ERROR: FPM initialization failed
+[30-Dec-2021 00:16:55] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:16:55] ERROR: FPM initialization failed
+[30-Dec-2021 00:16:56] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:16:56] ERROR: FPM initialization failed
+[30-Dec-2021 00:16:56] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:16:56] ERROR: FPM initialization failed
+[30-Dec-2021 00:16:57] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 00:16:57] ERROR: FPM initialization failed
+[30-Dec-2021 15:50:05] NOTICE: Terminating ...
+[30-Dec-2021 15:50:05] NOTICE: exiting, bye-bye!
+[30-Dec-2021 17:07:30] NOTICE: fpm is running, pid 5917
+[30-Dec-2021 17:07:30] NOTICE: ready to handle connections
+[30-Dec-2021 17:07:50] NOTICE: fpm is running, pid 6095
+[30-Dec-2021 17:07:50] NOTICE: ready to handle connections
+[30-Dec-2021 17:08:03] NOTICE: Terminating ...
+[30-Dec-2021 17:08:03] NOTICE: Terminating ...
+[30-Dec-2021 17:08:03] NOTICE: exiting, bye-bye!
+[30-Dec-2021 21:49:13] NOTICE: fpm is running, pid 3307
+[30-Dec-2021 21:49:13] NOTICE: ready to handle connections
+[30-Dec-2021 23:16:32] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 23:16:32] ERROR: FPM initialization failed
+[30-Dec-2021 23:16:33] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 23:16:33] ERROR: FPM initialization failed
+[30-Dec-2021 23:16:34] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 23:16:34] ERROR: FPM initialization failed
+[30-Dec-2021 23:16:35] ERROR: Another FPM instance seems to already listen on /home/etienne/.config/Local/run/vHxlF2n9H/php/php-fpm.socket
+[30-Dec-2021 23:16:35] ERROR: FPM initialization failed
+[31-Dec-2021 15:43:34] NOTICE: fpm is running, pid 4362
+[31-Dec-2021 15:43:34] NOTICE: ready to handle connections
+[31-Dec-2021 16:14:12] NOTICE: Terminating ...
+[31-Dec-2021 16:14:12] NOTICE: Terminating ...
+[31-Dec-2021 16:14:12] NOTICE: exiting, bye-bye!
+[31-Dec-2021 16:14:24] NOTICE: fpm is running, pid 6371
+[31-Dec-2021 16:14:24] NOTICE: ready to handle connections
+[31-Dec-2021 18:18:51] NOTICE: fpm is running, pid 8807
+[31-Dec-2021 18:18:51] NOTICE: ready to handle connections
+[31-Dec-2021 18:26:44] NOTICE: Terminating ...
+[31-Dec-2021 18:26:44] NOTICE: Terminating ...
+[31-Dec-2021 18:26:44] NOTICE: exiting, bye-bye!
+[31-Dec-2021 18:26:47] NOTICE: fpm is running, pid 9672
+[31-Dec-2021 18:26:47] NOTICE: ready to handle connections
+[31-Dec-2021 20:19:17] NOTICE: fpm is running, pid 4976
+[31-Dec-2021 20:19:17] NOTICE: ready to handle connections
+[01-Jan-2022 08:33:15] NOTICE: Terminating ...
+[01-Jan-2022 08:33:15] NOTICE: Terminating ...
+[01-Jan-2022 08:33:15] NOTICE: exiting, bye-bye!
+[01-Jan-2022 08:33:25] NOTICE: fpm is running, pid 33726
+[01-Jan-2022 08:33:25] NOTICE: ready to handle connections
+[01-Jan-2022 12:48:38] NOTICE: Terminating ...
+[01-Jan-2022 12:48:38] NOTICE: Terminating ...
+[01-Jan-2022 12:48:38] NOTICE: exiting, bye-bye!
+[01-Jan-2022 12:48:43] NOTICE: fpm is running, pid 39388
+[01-Jan-2022 12:48:43] NOTICE: ready to handle connections
+[01-Jan-2022 12:48:45] NOTICE: Terminating ...
+[01-Jan-2022 12:48:45] NOTICE: Terminating ...
+[01-Jan-2022 12:48:45] NOTICE: exiting, bye-bye!
+[01-Jan-2022 12:58:24] NOTICE: fpm is running, pid 39876
+[01-Jan-2022 12:58:24] NOTICE: ready to handle connections
+[01-Jan-2022 16:24:39] NOTICE: Terminating ...
+[01-Jan-2022 16:24:39] NOTICE: Terminating ...
+[01-Jan-2022 16:24:39] NOTICE: exiting, bye-bye!
+[01-Jan-2022 16:31:33] NOTICE: fpm is running, pid 3045
+[01-Jan-2022 16:31:33] NOTICE: ready to handle connections
