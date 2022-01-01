@@ -175,3 +175,8 @@
 [01-Jan-2022 16:24:39] NOTICE: exiting, bye-bye!
 [01-Jan-2022 16:31:33] NOTICE: fpm is running, pid 3045
 [01-Jan-2022 16:31:33] NOTICE: ready to handle connections
+[01-Jan-2022 22:29:16] NOTICE: Terminating ...
+[01-Jan-2022 22:29:16] NOTICE: Terminating ...
+[01-Jan-2022 22:29:16] NOTICE: exiting, bye-bye!
+[01-Jan-2022 22:29:20] NOTICE: fpm is running, pid 23313
+[01-Jan-2022 22:29:20] NOTICE: ready to handle connections
